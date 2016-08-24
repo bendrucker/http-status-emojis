@@ -1,7 +1,7 @@
 {
   "name": "http-status-emojis",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Emojis for HTTP status codes",
   "license": "MIT",
   "repository": "bendrucker/http-status-emojis",
