@@ -1,4 +1,4 @@
-# http-status-emojis [![Build Status](https://travis-ci.org/bendrucker/http-status-emojis.svg?branch=master)](https://travis-ci.org/bendrucker/http-status-emojis)
+# http-status-emojis [![Build Status](https://travis-ci.org/bendrucker/http-status-emojis.svg?branch=master)](https://travis-ci.org/bendrucker/http-status-emojis) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/http-status-emojis.svg)](https://greenkeeper.io/)
 
 > Emojis for HTTP status codes
 
