@@ -6,7 +6,7 @@ const httpStatusEmojis = require('./')
 
 test('all properties are strings', function (t) {
   t.ok(Object.values(httpStatusEmojis).every(validCodePoint), 'all code points are valid (> 5000)')
-  for (let [key, value] of Object.entries(httpStatusEmojis)) {
+  for (const [key, value] of Object.entries(httpStatusEmojis)) {
     if (!validCodePoint(value)) {
       t.fail(`expected emoji, found "${value}" at "${key}"`)
     }
